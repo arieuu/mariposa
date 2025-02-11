@@ -6,6 +6,6 @@
     "tsx": "^4.19.2"
   },
   "scripts": {
-    "dev": "npx tsx src/test.ts"
+    "dev": "npx tsx src/linkedin.ts"
   }
 }
